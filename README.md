@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vishvajeet Mankar
+# 👋 Hi, I’m Snehal Kotagi
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/snehalkotagi/)
 
