@@ -25,7 +25,7 @@ jobs:
       - name: Commit and Push
         run: |
           git config --global user.name "snehalk2312"
-          git config --global user.email "snehalk2312@gmail.com"  # 👈 Replace with actual email
+          git config --global user.email "snehalk231201@gmail.com"  # 👈 Replace with actual email
           git add README.md log.txt
           git commit -m "📅 Daily commit to keep streak alive" || echo "No changes"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
