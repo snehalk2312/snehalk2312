@@ -13,7 +13,8 @@
 ---
 ### 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=snehalk2312&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=snehalk2312&theme=tokyonight&hide_border=true)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehalk2312&show_icons=true&theme=tokyonight&hide_border=true)
 
